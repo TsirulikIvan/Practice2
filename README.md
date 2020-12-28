@@ -9,4 +9,4 @@
   * [ВСР 2.2](https://drive.google.com/file/d/1BHDCqoa4Vy9oka9sMy42Hy9FZ7Mg8IVd/view?usp=sharing)
 3. Отчеты
   * [Задания](https://drive.google.com/file/d/1V-zU4t3RnqHEPPI3jM9AzX860hE-x1sT/view?usp=sharing)
-  * [Отчет](https://drive.google.com/file/d/1n9SjHsLAoqm9n9oJa7N0q1CHTIcJwrJx/view?usp=sharing)
+  * [Отчет](/отчет_технологическая_4курс.pdf)
